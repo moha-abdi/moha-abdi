@@ -1,5 +1,5 @@
 
-<img src="https://media4.giphy.com/media/YRMb6dd7zprS00JdGZ/giphy.gif?cid=ecf05e47fov60myxrp7kcxgit44ihst250ddvaq1jyyp0afc" alt="drawing" width="200"/> I'm **Moha**, probably I am currenly coding 😆. I am a software engineer passionate about building cool projects and discovering new ideas.
+<img src="https://media4.giphy.com/media/YRMb6dd7zprS00JdGZ/giphy.gif?cid=ecf05e47fov60myxrp7kcxgit44ihst250ddvaq1jyyp0afc" alt="drawing" width="200"/> I'm **Moha**, **probably** I am currenly coding 😆. I am a CS engineer; building cool projects and discovering new ideas.
 
 
 `````assembly
