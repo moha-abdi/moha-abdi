@@ -1,4 +1,4 @@
-# Hi Broo.. 👋 I'm Moha Abdi
+# Hi Broo.. This is **Moha**
 
 I'm a software engineer passionate about building cool projects and learning new skills.
 
