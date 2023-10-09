@@ -21,7 +21,7 @@ _start:
 
 ## Let's Connect
 
-[<img src="https://img.icons8.com/color/48/twitter--v2.png" alt="Twitter" width="30" height="30"/>](https://twitter.com/yourhandle)
-[<img src="https://img.icons8.com/fluent/48/instagram-new.png" alt="Instagram" width="30" height="30"/>](https://instagram.com/yourhandle)
+[<img src="https://img.icons8.com/color/48/twitter--v2.png" alt="Twitter" width="30" height="30"/>](https://twitter.com/_moha_abdi)
+[<img src="https://img.icons8.com/fluent/48/instagram-new.png" alt="Instagram" width="30" height="30"/>](https://instagram.com/_moha.abdi)
 
 
